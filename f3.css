@@ -1,0 +1,14 @@
+td {
+    padding: 15px;
+    background-color:black;
+  }
+  table{
+    border-color:yellow;
+    background-color:yellow;
+    color:white;
+  }
+  button{
+    border:2px solid;
+    background-color:brown;
+    color:white;
+  }
